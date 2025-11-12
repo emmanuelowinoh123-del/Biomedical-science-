@@ -1,10 +1,3 @@
-Perfect 👏 — since your research project is titled “Microbial Identification and Antimicrobial Susceptibility Testing of High-Contact Surfaces”, here’s detailed, professional content you can use directly in your GitHub repository (in the README.md file).
-
-This version is well-structured for a scientific project, showing your analytical, technical, and data-driven focus — perfect for MSc applications or research portfolios.
-
-
----
-
 🧫 Microbial Identification and Antimicrobial Susceptibility Testing of High-Contact Surfaces
 
 🔬 Author: Emmanuel Owino
@@ -35,8 +28,6 @@ This project investigates the presence, diversity, and antibiotic resistance pro
 
 
 4. To provide recommendations for improved hygiene practices and infection control.
-
-
 
 
 ---
@@ -151,8 +142,3 @@ Microbial-Resistance-Analysis/
 🧾 Citation
 
 Owino, E. (2025). Microbial Identification and Antimicrobial Susceptibility Testing of High-Contact Surfaces. Kisii University, Department of Biomedical Science and Technology.
-
-
----
-
-Would you like me to include a sample Python or R analysis script (e.g., for data cleaning or plotting antibiotic resistance trends) to upload alongside this? It would make your GitHub repo more dynamic and impressive for reviewers.
